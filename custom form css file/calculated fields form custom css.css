@@ -1,0 +1,45 @@
+.cp_cff_14 {
+	border-radius: 48px;
+	box-shadow: 0px 0px 48px -7px          rgba(0,0,0,0.46);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#fbuilder .cff-calculated-field input {
+    color: #ff4500 !important;
+    font-weight: bold;
+    border: 1px solid #ff4500 !important;
+	  border-radius: 16px !important;
+}
+
+.cp_cff_14 #fbuilder .fform h2::before {
+    background: #ff4500 !important;
+}
+
+#fbuilder .cff-number-field input {
+	border: 1px solid #ff4500 !important;
+	border-radius: 16px !important;
+}
+
+#fbuilder .cff-currency-field input {
+	border: 1px solid #ff4500 !important;
+	border-radius: 16px !important;
+}
+
+#fbuilder button {
+	background: #ff4500 !important;
+  border-color: #ff4500 !important;
+	border-radius: 80% !important;
+	line-height: 0 !important;
+	min-height: 19px !important;
+	width: 18px !important;
+}
+
+#fbuilder .cff-spinner .cff-spinner-down {
+	background: #ff4500 !important;
+  border-color: #ff4500 !important;
+	border-radius: 80% !important;
+	width: 18px !important;
+	min-height: 19px !important;
+}
